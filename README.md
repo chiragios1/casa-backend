@@ -85,4 +85,4 @@ npm start
 
 ## License
 
-This project is proprietary and confidential. 
+This project is proprietary and confidential.
